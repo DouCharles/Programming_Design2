@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="mashroom">pics/mashroom_re.png</file>
+        <file alias="bullet">pics/bullet_re.png</file>
+        <file alias="role">pics/man3.png</file>
+        <file alias="plat">pics/plat_re.png</file>
+        <file alias="plat2">pics/plat2_re.png</file>
+        <file alias="super">pics/super.PNG</file>
+        <file alias="clone">pics/clone.PNG</file>
+        <file alias="blackmage">pics/blackmage_re.png</file>
+        <file alias="maple">pics/maple_re.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="box">picture/box.PNG</file>
+        <file alias="person">picture/mage.png</file>
+        <file alias="wall">picture/maple.png</file>
+        <file alias="chooselv">picture/chooselv.jpg</file>
+        <file alias="goal">picture/goal.png</file>
+        <file alias="skill">picture/skill.PNG</file>
+        <file alias="hand">picture/cursor.png</file>
+        <file alias="lvbg">picture/lvbg.jpg</file>
+        <file alias="loginmusic">picture/loginmusic.mp3</file>
+        <file alias="lv1music">picture/lv1music.mp3</file>
+        <file alias="lv2music">picture/lv2music.mp3</file>
+        <file alias="person2">picture/man2.png</file>
+        <file alias="person3">picture/man3.png</file>
+        <file alias="person4">picture/man4.png</file>
+        <file alias="login">picture/loginword.png</file>
+        <file alias="chooserole">picture/role.png</file>
+        <file alias="personleft">picture/mageleft.png</file>
+        <file alias="person2left">picture/man2left.png</file>
+        <file alias="person3right">picture/man3right.png</file>
+        <file alias="person4left">picture/man4left.png</file>
+    </qresource>
+</RCC>
